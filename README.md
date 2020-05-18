@@ -1,6 +1,6 @@
 # Laboratory Data Model
 
-1. Request for and example.
+1. Request for and exam.
 2. You get a number in the queue.
 3. Wait in line.
 4. You get your turn.
